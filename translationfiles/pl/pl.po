@@ -1,0 +1,523 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Nextcloud package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Nextcloud 3.14159\n"
+"Report-Msgid-Bugs-To: translations\\@example.com\n"
+"POT-Creation-Date: 2021-12-13 11:35+0100\n"
+"PO-Revision-Date: 2022-09-09 16:19+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#: /var/www/apps/shifts/js/settings.js:76
+msgid "Successfully saved changes"
+msgstr "Zapisano zmiany"
+
+#: /var/www/apps/shifts/js/settings.js:80
+msgid "Could not save changes"
+msgstr "Nie udało się zapisać zmian"
+
+#: /var/www/apps/shifts/js/shifts-main.js:2620
+msgid "REQUEST-STATUS"
+msgstr "STATUS-ZGŁOSZENIA"
+
+#: /var/www/apps/shifts/js/shifts-main.js:24706
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:3
+msgid "Month"
+msgstr "Miesiąc"
+
+#: /var/www/apps/shifts/js/shifts-main.js:24709
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:4
+msgid "Week"
+msgstr "Tydzień"
+
+#: /var/www/apps/shifts/js/shifts-main.js:24734
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:5
+msgid "Open Shifts"
+msgstr "Wolne zmiany"
+
+#: /var/www/apps/shifts/js/shifts-main.js:25239
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:7
+msgid "Search for Emails or Users"
+msgstr "Szukaj adresów email lub użytkowników"
+
+#: /var/www/apps/shifts/js/shifts-main.js:25244
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:8
+msgid "No match found"
+msgstr "Nie znaleziono"
+
+#: /var/www/apps/shifts/js/shifts-main.js:25853
+#: /var/www/apps/shifts/js/shifts-main.js:25855
+#: /var/www/apps/shifts/js/shifts-main.js:25915
+#: /var/www/apps/shifts/js/shifts-main.js:93377
+#: /var/www/apps/shifts/js/shifts-main.js:93610
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:26
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:27
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:28
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:60
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:66
+msgid "Swap"
+msgstr "Zamień"
+
+#: /var/www/apps/shifts/js/shifts-main.js:25855
+#: /var/www/apps/shifts/js/shifts-main.js:25915
+#: /var/www/apps/shifts/js/shifts-main.js:93378
+#: /var/www/apps/shifts/js/shifts-main.js:93611
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:27
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:29
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:60
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:66
+msgid "Offer"
+msgstr "Oferuj"
+
+#: /var/www/apps/shifts/js/shifts-main.js:25933
+#: /var/www/apps/shifts/js/shifts-main.js:26004
+#: /var/www/apps/shifts/js/shifts-main.js:28704
+#: /var/www/apps/shifts/js/shifts-main.js:28725
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:30
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:31
+#: /var/www/apps/shifts/src/store/database.js:169
+#: /var/www/apps/shifts/src/store/database.js:183
+msgid "Could not fetch shifts"
+msgstr "Nie udało się pobrać zmian"
+
+#: /var/www/apps/shifts/js/shifts-main.js:26521
+#: /var/www/apps/shifts/js/shifts-main.js:90818
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:2
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:55
+msgid "Analyst"
+msgstr "Pracownik"
+
+#: /var/www/apps/shifts/js/shifts-main.js:26651
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:57
+msgid "Select Shiftstype"
+msgstr "Wybierz typ zmiany"
+
+#: /var/www/apps/shifts/js/shifts-main.js:27025
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:71
+msgid "Could not save shifts Changes"
+msgstr "Nie udało się zapisać zmian w Zmianach"
+
+#: /var/www/apps/shifts/js/shifts-main.js:28428
+#: /var/www/apps/shifts/js/shifts-main.js:28470
+#: /var/www/apps/shifts/js/shifts-main.js:28686
+#: /var/www/apps/shifts/src/store/archive.js:73
+#: /var/www/apps/shifts/src/store/database.js:158
+msgid "Could not fetch data"
+msgstr "Nie udało się pobrać danych"
+
+#: /var/www/apps/shifts/js/shifts-main.js:28741
+#: /var/www/apps/shifts/src/store/database.js:192
+msgid "Could not fetch shifts-types"
+msgstr "Nie udało się pobrać typów Zmian"
+
+#: /var/www/apps/shifts/js/shifts-main.js:28757
+#: /var/www/apps/shifts/src/store/database.js:201
+msgid "Could not fetch shifts-changes"
+msgstr "Nie udało się pobrać zamiany Zmian"
+
+#: /var/www/apps/shifts/js/shifts-main.js:28773
+#: /var/www/apps/shifts/src/store/database.js:210
+msgid "Could not delete shift"
+msgstr "Nie udało się usunąć zmiany"
+
+#: /var/www/apps/shifts/js/shifts-main.js:28789
+#: /var/www/apps/shifts/src/store/database.js:219
+msgid "Could not delete shiftsType"
+msgstr "Nie udało się usunąć typu zmiany"
+
+#: /var/www/apps/shifts/js/shifts-main.js:28817
+#: /var/www/apps/shifts/src/store/database.js:238
+msgid " Could not update Calendar"
+msgstr " Nie udało się uaktualnić kalendarza"
+
+#: /var/www/apps/shifts/js/shifts-main.js:28981
+#: /var/www/apps/shifts/src/store/newShiftInstance.js:84
+msgid "Could not create the shift"
+msgstr "Nie udało się utworzyć Zmiany"
+
+#: /var/www/apps/shifts/js/shifts-main.js:28985
+#: /var/www/apps/shifts/src/store/newShiftInstance.js:88
+msgid "No Analysts or Dates for Shift given"
+msgstr "Nie wskazano Pracownik lub dat dla podanej zmiany"
+
+#: /var/www/apps/shifts/js/shifts-main.js:29091
+#: /var/www/apps/shifts/src/store/settings.js:69
+msgid "Could not fetch Settings"
+msgstr "Nie udało się pobrać konfiguracji"
+
+#: /var/www/apps/shifts/js/shifts-main.js:29095
+#: /var/www/apps/shifts/src/store/settings.js:72
+msgid "Please set a Calendarname in the App-Settings"
+msgstr "Wprowadź nazwę kalendarza w konfiguracji aplikacji"
+
+#: /var/www/apps/shifts/js/shifts-main.js:29100
+#: /var/www/apps/shifts/src/store/settings.js:76
+msgid "Please set an Organizername in the App-Settings"
+msgstr "Wprowadź nazwę organizatora w konfiguracji aplikacji"
+
+#: /var/www/apps/shifts/js/shifts-main.js:29105
+#: /var/www/apps/shifts/src/store/settings.js:80
+msgid "Please set an Organizeremail in the App-Settings"
+msgstr "Wprowadź email organizatora w konfiguracji aplikacji"
+
+#: /var/www/apps/shifts/js/shifts-main.js:29110
+#: /var/www/apps/shifts/src/store/settings.js:84
+msgid "Please set at least one Skillgroup in the App-Settings"
+msgstr "Wprowadź conajmniej jedną Grupę umiejętności w konfiguracji aplikacji"
+
+#: /var/www/apps/shifts/js/shifts-main.js:29288
+#: /var/www/apps/shifts/src/store/shiftsTypeInstance.js:120
+msgid "Could not save the shiftType"
+msgstr "Nie udało się zapisać typu Zmiany"
+
+#: /var/www/apps/shifts/js/shifts-main.js:90720
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:1
+msgid "Today"
+msgstr "Dzisiaj"
+
+#: /var/www/apps/shifts/js/shifts-main.js:91151
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:6
+msgid "Remove analyst"
+msgstr "Usuń pracownika"
+
+#: /var/www/apps/shifts/js/shifts-main.js:91331
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:9
+msgid "No analysts yet"
+msgstr "Nie znaleziono pracowników"
+
+#: /var/www/apps/shifts/js/shifts-main.js:91361
+#: /var/www/apps/shifts/js/shifts-main.js:91373
+#: /var/www/apps/shifts/js/shifts-main.js:93334
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:11
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:12
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:58
+msgid "New Request"
+msgstr "Nowa prośba"
+
+#: /var/www/apps/shifts/js/shifts-main.js:91426
+#: /var/www/apps/shifts/js/shifts-main.js:91942
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:13
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:19
+msgid "Select old analyst"
+msgstr "Wybierz obecnego Pracownika"
+
+#: /var/www/apps/shifts/js/shifts-main.js:91542
+#: /var/www/apps/shifts/js/shifts-main.js:92058
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:14
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:20
+msgid "Select new analyst"
+msgstr "Wybierz nowego Pracownika"
+
+#: /var/www/apps/shifts/js/shifts-main.js:91668
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:15
+msgid "Select shifts of old analyst"
+msgstr "Wybierz zmiany obecnego pracownika"
+
+#: /var/www/apps/shifts/js/shifts-main.js:91793
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:16
+msgid "Select shifts of new analyst"
+msgstr "Wybierz zmiany nowego pracownika"
+
+#: /var/www/apps/shifts/js/shifts-main.js:91908
+#: /var/www/apps/shifts/js/shifts-main.js:92307
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:17
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:22
+msgid "Description"
+msgstr "Opis"
+
+#: /var/www/apps/shifts/js/shifts-main.js:91909
+#: /var/www/apps/shifts/js/shifts-main.js:92308
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:18
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:23
+msgid "Description or Purpose"
+msgstr "Opis przyczyny"
+
+#: /var/www/apps/shifts/js/shifts-main.js:92184
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:21
+msgid "Select shifts of analyst"
+msgstr "Wybierz zmiany pracownika"
+
+#: /var/www/apps/shifts/js/shifts-main.js:92341
+#: /var/www/apps/shifts/js/shifts-main.js:92831
+#: /var/www/apps/shifts/js/shifts-main.js:93054
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:24
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:46
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:53
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: /var/www/apps/shifts/js/shifts-main.js:92359
+#: /var/www/apps/shifts/js/shifts-main.js:92842
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:25
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:47
+#: /var/www/apps/shifts/templates/settings.php:59
+msgid "Save"
+msgstr "Zapisz"
+
+#: /var/www/apps/shifts/js/shifts-main.js:92398
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:32
+msgid "New Shiftstype"
+msgstr "Nowy typ zmiany"
+
+#: /var/www/apps/shifts/js/shifts-main.js:92679
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:36
+msgid "weekly Shifts"
+msgstr "tygodniowe zmiany"
+
+#: /var/www/apps/shifts/js/shifts-main.js:92695
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:37
+msgid "Weekly"
+msgstr "Tygodniowo"
+
+#: /var/www/apps/shifts/js/shifts-main.js:92715
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:38
+msgid "Rules"
+msgstr "Reguły"
+
+#: /var/www/apps/shifts/js/shifts-main.js:92723
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:39
+msgid "Monday"
+msgstr "Poniedziałek"
+
+#: /var/www/apps/shifts/js/shifts-main.js:92735
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:40
+msgid "Tuesday"
+msgstr "Wtorek"
+
+#: /var/www/apps/shifts/js/shifts-main.js:92747
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:41
+msgid "Wednesday"
+msgstr "Środa"
+
+#: /var/www/apps/shifts/js/shifts-main.js:92759
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:42
+msgid "Thursday"
+msgstr "Czwartek"
+
+#: /var/www/apps/shifts/js/shifts-main.js:92771
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:43
+msgid "Friday"
+msgstr "Piątek"
+
+#: /var/www/apps/shifts/js/shifts-main.js:92783
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:44
+msgid "Saturday"
+msgstr "Sobota"
+
+#: /var/www/apps/shifts/js/shifts-main.js:92795
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:45
+msgid "Sunday"
+msgstr "Niedziela"
+
+#: /var/www/apps/shifts/js/shifts-main.js:92886
+#: /var/www/apps/shifts/specialAppInfoFakeDummyForL10nScript.php:3
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:48
+msgid "Shift plan"
+msgstr "Plan zmian"
+
+#: /var/www/apps/shifts/js/shifts-main.js:92894
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:49
+msgid "Shiftchange"
+msgstr "Zamiana"
+
+#: /var/www/apps/shifts/js/shifts-main.js:92903
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:50
+msgid "Shifttypes"
+msgstr "Typy zmian"
+
+#: /var/www/apps/shifts/js/shifts-main.js:92913
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:51
+msgid "Shiftsdata"
+msgstr "Archiwum zmian"
+
+#: /var/www/apps/shifts/js/shifts-main.js:92993
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:52
+msgid "Timespan"
+msgstr "Okres czasu"
+
+#: /var/www/apps/shifts/js/shifts-main.js:93072
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:54
+msgid "Ok"
+msgstr "Ok"
+
+#: /var/www/apps/shifts/js/shifts-main.js:93191
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:56
+msgid "Select Date"
+msgstr "Wybierz date"
+
+#: /var/www/apps/shifts/js/shifts-main.js:93349
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:59
+msgid "In Progress"
+msgstr "W trakcie"
+
+#: /var/www/apps/shifts/js/shifts-main.js:93504
+#: /var/www/apps/shifts/js/shifts-main.js:93733
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:61
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:67
+msgid "Analyst Approval: "
+msgstr "Akceptacja pracownika: "
+
+#: /var/www/apps/shifts/js/shifts-main.js:93508
+#: /var/www/apps/shifts/js/shifts-main.js:93737
+#: /var/www/apps/shifts/js/shifts-main.js:93752
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:62
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:68
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:70
+msgid " at "
+msgstr " o "
+
+#: /var/www/apps/shifts/js/shifts-main.js:93535
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:63
+msgid "Decline"
+msgstr "Odmów"
+
+#: /var/www/apps/shifts/js/shifts-main.js:93563
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:64
+msgid "Approve"
+msgstr "Zaakceptuj"
+
+#: /var/www/apps/shifts/js/shifts-main.js:93582
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:65
+msgid "Processed"
+msgstr "Przetworzone"
+
+#: /var/www/apps/shifts/js/shifts-main.js:93748
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:69
+msgid "Admin Approval: "
+msgstr "Akceptacja administratora: "
+
+#: /var/www/apps/shifts/js/shifts-main.js:93836
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:72
+msgid "Add Shift"
+msgstr "Dodaj zmianę"
+
+#: /var/www/apps/shifts/js/shifts-main.js:93891
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:73
+msgid "Synchronize Calendar"
+msgstr "Synchronizuj kalendarz"
+
+#: /var/www/apps/shifts/js/shifts-main.js:93945
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:74
+msgid "Add new Shiftstype"
+msgstr "Dodaj nowy typ zmiany"
+
+#: /var/www/apps/shifts/js/shifts-main.js:93957
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:75
+msgid "Shiftstype"
+msgstr "Typ zmiany"
+
+#: /var/www/apps/shifts/js/shifts-main.js:94007
+#: /var/www/apps/shifts/js/shifts-main.js:94070
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:76
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:78
+msgid "Delete"
+msgstr "Usuń"
+
+#: /var/www/apps/shifts/js/shifts-main.js:94042
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:77
+msgid "Are you sure that u want to delete the Shiftstype and all its Shifts"
+msgstr "Czy jesteś pewien że chcesz usunąć ten typ zmiany i wszystkie zmiany go wykorzystujące?"
+
+#: /var/www/apps/shifts/js/shifts-main.js:94098
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:79
+msgid "Edit"
+msgstr "Edytuj"
+
+#: /var/www/apps/shifts/specialAppInfoFakeDummyForL10nScript.php:2
+msgid "Shiftplan"
+msgstr "Planowanie zmian"
+
+#: /var/www/apps/shifts/specialAppInfoFakeDummyForL10nScript.php:4
+msgid "App for organising Shifts"
+msgstr "Aplikacja do zarządzania zmianami"
+
+#: /var/www/apps/shifts/specialAppInfoFakeDummyForL10nScript.php:5
+msgid ""
+"* **Interactions with the Nextcloud Calender app!** Easy integration into the existing Calender of Nextcloud.\n"
+"* **Manage and organize your Shifts System!** Customize your Shifts Model with different Shifttypes\n"
+"* **Separation of Users by different Nextcloud user Groups!** Divide your Workforce with different Skill-Levels\n"
+"\n"
+"More to come:\n"
+"* Further maturing of the app\n"
+"* Individualisation\n"
+"\n"
+"\n"
+"If you experience any issues or have any suggestions for improvement, please feel free to use the issue tracker."
+msgstr ""
+"* **Integracja z aplikacja kalendarza Nextcloud!** Łatwa integracja z istniającym Kalendarzem w Nextcloud.\n"
+"* **Zarządzaj i organizuj swoim systemem zmian!** Dostosuj swój model zmian dzięki różnym typom zmian\n"
+"* **Separacja użytkowników Separation of Users by different Nextcloud user Groups!** Divide your Workforce with different Skill-Levels\n"
+"\n"
+"More to come:\n"
+"* Further maturing of the app\n"
+"* Individualisation\n"
+"\n"
+"\n"
+"If you experience any issues or have any suggestions for improvement, please feel free to use the issue tracker."
+
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:10
+msgid "Name of the Shift-Type"
+msgstr "Nazwa typu zmiany"
+
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:33
+msgid "Calendar Color"
+msgstr "Kolor"
+
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:34
+msgid "Start Time"
+msgstr "Początek zmiany"
+
+#: /var/www/apps/shifts/specialVueFakeDummyForL10nScript.js:35
+msgid "Stop Time"
+msgstr "Koniec zmiany"
+
+#. TRANSLATORS This refers to global timezones in the timezone picker
+#: /var/www/apps/shifts/src/utils/timezone.js:40
+msgid "Global"
+msgstr ""
+
+#: /var/www/apps/shifts/templates/settings.php:21
+msgid "Shifts"
+msgstr "Zmiany"
+
+#: /var/www/apps/shifts/templates/settings.php:23
+msgid "Documentation"
+msgstr "Dokumentacja"
+
+#: /var/www/apps/shifts/templates/settings.php:27
+msgid "Name of the Shiftscalendar"
+msgstr "Nazwa kalendarza zmian"
+
+#: /var/www/apps/shifts/templates/settings.php:31
+msgid "Name of the Shiftsorganizer"
+msgstr "Nazwa organizatora zmian"
+
+#: /var/www/apps/shifts/templates/settings.php:35
+msgid "Email fo the Shiftsorganizer"
+msgstr "Email organizatora zmian"
+
+#: /var/www/apps/shifts/templates/settings.php:39
+msgid "Name of the Shiftsadmin Group"
+msgstr "Nazwa grupy administratorów zmian"
+
+#: /var/www/apps/shifts/templates/settings.php:43
+msgid "Name of the Analyst Group"
+msgstr "Nazwa grupy pracowników zmian"
+
+#: /var/www/apps/shifts/templates/settings.php:47
+msgid "Name of the Analyst-Skill Group"
+msgstr "Nazwa grupy pracowników z kompetencją"
+
+#: /var/www/apps/shifts/templates/settings.php:53
+msgid "Add"
+msgstr "Dodaj"
